@@ -1,0 +1,11 @@
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\bin\Debug\Negocios.dll
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\bin\Debug\Datos.dll
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\bin\Debug\Entidades.dll
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\bin\Debug\Datos.pdb
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\bin\Debug\Entidades.pdb
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\obj\Debug\Negocios.dll
+C:\Users\Tichs\Documents\Gerardo\Desarrollador NET\Introduccion NET y C#\CRUDAlumnos\Negocios\obj\Debug\Negocios.pdb
